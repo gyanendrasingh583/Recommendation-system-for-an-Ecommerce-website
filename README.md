@@ -1,2 +1,2 @@
-# Recommendation-system-for-an-Ecommerce-website
-The aim of the project is to build an E-commerce website which provides personalized product recommendations to the users and implement the blockchain technology for the payment purposes. The report presents the product recommendation system model that is to be implemented in the website. Two types of recommender models are used here. ❖ User-based Collaborative Filtering model ❖ Image-based Convolutional Neural network model These models are trained end-to-end in order to predict/recommend similar products to the user.
+# Ecommerce-website
+Btech Project
